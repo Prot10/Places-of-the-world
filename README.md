@@ -2,7 +2,7 @@
 
 The purpose of this repository is to answer the assigned questions in the [Homework 3](https://github.com/lucamaiano/ADM/tree/master/2022/Homework_3) of the Algorithms for Data Mining course, 2022.
 
-The data collection is performed on the [Atlas Obscura](https://www.atlasobscura.com). The repository consists of the following files:
+The data collection is performed on the [Atlas Obscura](https://www.atlasobscura.com) website. The repository consists of the following files:
 
 1. `general.ipynb`: a Jupyter Notebook that answers the questions: 
 - Data collection

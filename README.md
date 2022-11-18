@@ -11,15 +11,16 @@ The data collection is performed on the [Atlas Obscura](https://www.atlasobscura
 - Visualizing the most relevant places
 - BONUS: More complex search engine
 - Theoretical question
-2. `CommandLine.sh`: a file that provides an answer to the Commmand Line question
-3. `html_page`:
-4. `places_lists.txt`:
-5. `places.tsv`:
-6. `ApplicantsInfo.txt`:
-7. `inverted_index.pkl`:
-8. `inverted_index_tfidf.pkl`:
-9. `vocabulary.pkl`:
-10. `RankingList.txt`:
-11. `RankingList2.txt`:
-12. `RankingList3.txt`:
-13. `RankingList4.txt`:
+2. `CommandLine.sh`: The code used to provide the answers to the Commmand Line questions
+3. `html_page`: The folder that contains the html files of each page, it is composed of 400 subfolders, each folder has 18 html files.
+4. `tsv_files`: The Tsv files of each place.
+5. `places_lists.txt`: The text file containing the urls of the places.
+6. `places.tsv`: The tsv file that contains the data that we have collected.
+7. `ApplicantsInfo.txt`: The students' information txt file given by the professor.
+8. `inverted_index.pkl`:
+9. `inverted_index_tfidf.pkl`:
+10. `vocabulary.pkl`:
+11. `RankingList.txt`: The text file resulted from solving the theoretical question using the first algorithm.
+12. `RankingList2.txt`: The text file resulted from solving the theoretical question using the second algorithm.
+13. `RankingList3.txt`: The text file resulted from solving the theoretical question using the third algorithm.
+14. `RankingList4.txt`: The text file resulted from solving the theoretical question using the mapreduce algorithm.

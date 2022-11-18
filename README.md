@@ -20,7 +20,7 @@ The data collection is performed on the [Atlas Obscura](https://www.atlasobscura
 8. `inverted_index.pkl`:
 9. `inverted_index_tfidf.pkl`:
 10. `vocabulary.pkl`:
-11. `RankingList.txt`: The text file resulted from solving the theoretical question using the first algorithm.
+11. `RankingList1.txt`: The text file resulted from solving the theoretical question using the first algorithm.
 12. `RankingList2.txt`: The text file resulted from solving the theoretical question using the second algorithm.
 13. `RankingList3.txt`: The text file resulted from solving the theoretical question using the third algorithm.
 14. `RankingList4.txt`: The text file resulted from solving the theoretical question using the mapreduce algorithm.

@@ -4,7 +4,7 @@ The purpose of this repository is to answer the assigned questions in the [Homew
 
 The data collection is performed on the [Atlas Obscura](https://www.atlasobscura.com) website. The repository consists of the following files:
 
-1. `general.ipynb`: a Jupyter Notebook that answers the questions: 
+1. `main.ipynb`: a Jupyter Notebook that answers the questions: 
 - Data collection
 - Search Engine
 - Define a new score!

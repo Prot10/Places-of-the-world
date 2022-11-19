@@ -17,7 +17,7 @@ The data collection is performed on the [Atlas Obscura](https://www.atlasobscura
 5. `places_lists.txt`: The text file containing the urls of the places.
 6. `places.tsv`: The tsv file that contains the data that we have collected.
 7. `inverted_index.pkl`: The file that contains the documents where each word appear.
-8. `inverted_index_tfidf.pkl`: The file that contains the tfidf for each couple word-document. (too big for github, link to the drive: [inverted_index_tfidf](https://drive.google.com/file/d/18j1mZfctZzFad0cNaWHE9T90cbKC9ZWn/view?usp=share_link)
+8. `inverted_index_tfidf.pkl`: The file that contains the tfidf for each couple word-document. (too big for github, link to the drive: [inverted_index_tfidf](https://drive.google.com/file/d/18j1mZfctZzFad0cNaWHE9T90cbKC9ZWn/view?usp=share_link))
 9. `vocabulary.pkl`: The file that contains the mapping of every word in the descriptions.
 10. `RankingList1.txt`: The text file resulted from solving the theoretical question using the first algorithm.
 11. `RankingList2.txt`: The text file resulted from solving the theoretical question using the second algorithm.

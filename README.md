@@ -23,3 +23,4 @@ The data collection is performed on the [Atlas Obscura](https://www.atlasobscura
 11. `RankingList2.txt`: The text file resulted from solving the theoretical question using the second algorithm.
 12. `RankingList3.txt`: The text file resulted from solving the theoretical question using the third algorithm.
 13. `RankingList4.txt`: The text file resulted from solving the theoretical question using the mapreduce algorithm.
+14. `plot4.png`: The map resulted from solving the question four.

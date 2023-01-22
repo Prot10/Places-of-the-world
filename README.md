@@ -12,14 +12,15 @@ The data collection is performed on the [Atlas Obscura](https://www.atlasobscura
 - BONUS: More complex search engine
 - Theoretical question
 2. `CommandLine.sh`: The code used to provide the answers to the Commmand Line questions.
-3. `html_page`: The folder that contains the html files of each page, it is composed of 400 subfolders, each folder has 18 html files.
-4. `tsv_files.zip`: The Tsv files of each place.
-5. `places_lists.txt`: The text file containing the urls of the places.
-6. `places.tsv`: The tsv file that contains the data that we have collected.
-7. `inverted_index.pkl`: The file that contains the documents where each word appear.
-8. `inverted_index_tfidf.pkl`: The file that contains the tfidf for each couple word-document. (too big for github, link to the drive: [inverted_index_tfidf](https://drive.google.com/file/d/18j1mZfctZzFad0cNaWHE9T90cbKC9ZWn/view?usp=share_link))
-9. `vocabulary.pkl`: The file that contains the mapping of every word in the descriptions.
-10. `RankingList1.txt`: The text file resulted from solving the theoretical question using the first algorithm.
-11. `RankingList2.txt`: The text file resulted from solving the theoretical question using the second algorithm.
-12. `RankingList3.txt`: The text file resulted from solving the theoretical question using the third algorithm.
-13. `RankingList4.txt`: The text file resulted from solving the theoretical question using the mapreduce algorithm.
+3. `Files` Folder that contains:
+  - `html_page`: The folder that contains the html files of each page, it is composed of 400 subfolders, each folder has 18 html files.
+  - `tsv_files.zip`: The Tsv files of each place.
+  - `places_lists.txt`: The text file containing the urls of the places.
+  - `places.tsv`: The tsv file that contains the data that we have collected.
+  - `inverted_index.pkl`: The file that contains the documents where each word appear.
+  - `inverted_index_tfidf.pkl`: The file that contains the tfidf for each couple word-document. (too big for github, link to the drive: [inverted_index_tfidf](https://drive.google.com/file/d/18j1mZfctZzFad0cNaWHE9T90cbKC9ZWn/view?usp=share_link))
+  - `vocabulary.pkl`: The file that contains the mapping of every word in the descriptions.
+  - `RankingList1.txt`: The text file resulted from solving the theoretical question using the first algorithm.
+  - `RankingList2.txt`: The text file resulted from solving the theoretical question using the second algorithm.
+  - `RankingList3.txt`: The text file resulted from solving the theoretical question using the third algorithm.
+  - `RankingList4.txt`: The text file resulted from solving the theoretical question using the mapreduce algorithm.
